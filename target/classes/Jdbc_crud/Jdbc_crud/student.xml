@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student>
+        <sfee>25000</sfee>
+        <sid>101</sid>
+        <sname>Nagaraju</sname>
+      </student>
+    
+    <student>
+        
+        <sid>102</sid>
+         <sname>Raghava</sname>
+        <sfee>25000</sfee>
+       
+    </student>
+    
+    
+
+
+</students>
